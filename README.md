@@ -1,5 +1,5 @@
 # shitty-autoreply
-Irritate people by getting their names wrong
+Irritate people by getting their names wrong. This module provides a `wrong_name` function that returns a name that is close, but not quite the same as the input parameter.
 
 
 ## Installation

@@ -30,3 +30,8 @@ Raquel
 >> print wrong_name('Joe')
 Joell
 ```
+
+```bash
+$ wrong-name Eggs
+Egbert
+```

@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: modern-package-template
+Version: 1.0
+Summary: Irritate people by messing up their name
+Home-page: https://github.com/rzimmerman/shitty-autoreply
+Author: Rob Zimmerman
+Author-email: rmzimmerman@gmail.com
+License: MIT License
+Description: shitty-autoreply
+        =======================
+        Replace user's names with a close but slightly incorrect name.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python

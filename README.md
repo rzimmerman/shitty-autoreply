@@ -1,2 +1,2 @@
 # shitty-autoreply
-Decrease customer satisfaction by getting their names wrong
+Irritate people by getting their names wrong

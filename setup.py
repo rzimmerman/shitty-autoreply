@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from setuptools import setup
+from setuptools import setup, find_packages
 import os
 
 here = os.path.abspath(os.path.dirname(__file__))
@@ -27,6 +27,9 @@ setup(name='shitty-autoreply',
       author_email='rmzimmerman@gmail.com',
       url='https://github.com/rzimmerman/shitty-autoreply',
       license='MIT License',
-      packages=['shitty_autoreply'],
+      packages=find_packages(),
       include_package_data=True,
+      entry_points={
+          'console_scripts': ['wrong-name = shitty_autoreply.bin.wrong:main']
+          }
       )
